@@ -66,3 +66,4 @@ The ProveBTC on Ethereum project enables various compelling use cases:
 ## Useful ressources 📜
 
 - **Litepaper:** You can find our litepaer [here](https://github.com/ks-hackathon/.github/blob/f1b982fa437d504b93333cbe4f61325e048b973c/Proving%20BTC%20Ownership%20on%20Ethereum.pdf)
+- [**Decentralized frontend on BOS**](https://near.org/8e20af69ace22b11769e1cc3418481c31717d7318c397fcd6edec943e64b7f8f/widget/Untitled-0)
