@@ -65,4 +65,4 @@ The ProveBTC on Ethereum project enables various compelling use cases:
 
 ## Useful ressources 📜
 
-[Specify the license under which your project is distributed.]
+- **Litepaper:** You can find our litepaer [here](Proving BTC Ownership on Ethereum.pdf)
